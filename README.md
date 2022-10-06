@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryuk971
 - 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... development
 - 📫 How to reach me ... linkdin in profile
 
